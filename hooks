@@ -1,0 +1,12 @@
+{
+  "name": "web",
+  "active": true,
+  "events": [
+    "push",
+    "pull_request"
+  ],
+  "config": {
+    "url": "https://discordapp.com/api/webhooks/367512125196861440/zz9ZfW___E73sdEhg0tyOUkm5Ko-sMr3TaHq_LjssbcXDg9J7mpTlgCOTnCOUgcVr2sB/github",
+    "content_type": "json"
+  }
+}
