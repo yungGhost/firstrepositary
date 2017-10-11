@@ -1,7 +1,12 @@
 //hook
 {
-  "name": "web",
+  "name": "bean",
   "active": true,
+  "channel_id": "143508754103664640", 
+  "token": "zz9ZfW___E73sdEhg0tyOUkm5Ko-sMr3TaHq_LjssbcXDg9J7mpTlgCOTnCOUgcVr2sB", 
+  "avatar": "7a142bd703d439bd48faa5a5f3af6046", 
+  "guild_id": "143508754103664640", 
+  "id": "367512125196861440"
   "events": [
     "push",
     "pull_request"
