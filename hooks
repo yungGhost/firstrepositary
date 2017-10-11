@@ -1,13 +1,11 @@
 //hook
 {
-  "name": "bot",
-  "active": true,
-  "channel_id": "143508754103664640", 
-  "to"channel_id": "143508754103664640", 
-  "token": "zz9ZfW___E73sdEhg0tyOUkm5Ko-sMr3TaHq_LjssbcXDg9J7mpTlgCOTnCOUgcVr2sB", 
-  "avatar_url": "https://ih1.redbubble.net/image.120474575.6205/flat,800x800,075,f.jpg",
-  "guild_id": "143508754103664640", 
-  "id": "367512125196861440"
+  "name": "Captain Hook", 
+  "channel_id": "367532286721261572", 
+  "token": "HRvwUDWb9jD_xDOx9jHBgpt1CfoIrvVho4RQPt0ZKwrL4Q-1nhVTj3EiMDNE4ZG9jP5u", 
+  "avatar": null, 
+  "guild_id": "367532286721261570", 
+  "id": "367532438207070209"
   "events": [
     "push",
     "pull_request"
